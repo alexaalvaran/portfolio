@@ -1,52 +1,55 @@
 export default function TechStack() {
     return (
-        <section id="TechStack" className="w-full min-h-screen flex flex-col items-start justify-center bg-amber-50 text-zinc-500 p-8">
-            <div className="w-full flex flex-row items-start justify-between">
+        <section id="TechStack" className="w-full min-h-screen flex flex-col items-center justify-center bg-amber-50 text-zinc-500">
+    
+                <h2 className="text-4xl font-bold p-8"> My Tech Stack </h2>
+                   
+            <div className="w-full flex flex-row items-center justify-around p-5">
 
-                <div className="flex flex-col items-center justify-center space-y-4">
-                    <h2 className="text-2xl font-bold"> Languages </h2>
-                    <div className="border rounded-full bg-zinc-500 text-white text-xl px-6 py-3 flex items-center justify-center">
+                <div className="flex flex-col items-center justify-center space-y-6">
+                    <h3 className="text-2xl font-bold"> Languages </h3>
+                    <div className="techstackpill">
                         Python
                     </div>
-                    <div className="border rounded-full bg-zinc-500 text-white text-xl px-6 py-3 flex items-center justify-center">
+                    <div className="techstackpill">
                         Java 
                     </div>
-                    <div className="border rounded-full bg-zinc-500 text-white text-xl px-6 py-3 flex items-center justify-center">
+                    <div className="techstackpill">
                         Typescript
                     </div>
-                    <div className="border rounded-full bg-zinc-500 text-white text-xl px-6 py-3 flex items-center justify-center">
+                    <div className="techstackpill">
                         C++
                     </div>
                 </div>
 
-                <div className="flex flex-col items-center justify-center space-y-4 ml-16">
-                    <h2 className="text-2xl font-bold"> Frameworks </h2>
-                    <div className="border rounded-full bg-zinc-500 text-white text-xl px-6 py-3 flex items-center justify-center">
+                <div className="flex flex-col items-center justify-center space-y-6">
+                    <h3 className="text-2xl font-bold"> Frameworks </h3>
+                    <div className="techstackpill">
                         React
                     </div>
-                    <div className="border rounded-full bg-zinc-500 text-white text-xl px-6 py-3 flex items-center justify-center">
+                    <div className="techstackpill">
                         Next.js
                     </div>
-                    <div className="border rounded-full bg-zinc-500 text-white text-xl px-6 py-3 flex items-center justify-center">
+                    <div className="techstackpill">
                         Node.js
                     </div>
-                    <div className="border rounded-full bg-zinc-500 text-white text-xl px-6 py-3 flex items-center justify-center">
+                    <div className="techstackpill">
                         PyTorch
                     </div>
                 </div>
 
-                <div className="flex flex-col items-center justify-center space-y-4 ml-16">
-                    <h2 className="text-2xl font-bold"> Tools </h2>
-                    <div className="border rounded-full bg-zinc-500 text-white text-xl px-6 py-3 flex items-center justify-center">
+                <div className="flex flex-col items-center justify-center space-y-6">
+                    <h3 className="text-2xl font-bold"> Tools </h3>
+                    <div className="techstackpill">
                         Git
                     </div>
-                    <div className="border rounded-full bg-zinc-500 text-white text-xl px-6 py-3 flex items-center justify-center">
+                    <div className="techstackpill">
                         Figma
                     </div>
-                    <div className="border rounded-full bg-zinc-500 text-white text-xl px-6 py-3 flex items-center justify-center">
+                    <div className="techstackpill">
                         AWS
                     </div>
-                    <div className="border rounded-full bg-zinc-500 text-white text-xl px-6 py-3 flex items-center justify-center">
+                    <div className="techstackpill">
                         Webflow
                     </div>
                 </div>
