@@ -5,7 +5,7 @@ export default function Header() {
             <p className="text-sm max-w-lg font-semibold">Hi, I am a recent Software Engineering graduate passionate about developing and designing applications,
                 as well as the application of AI for real-world problems. I love learning new technologies and constantly exploring new ideas whether that&apos;s
                 building web applications, exploring machine learning, or creative projects that combine both creative and technical thinking. </p>
-            <button className="bg-zinc-500 text-white font-bold border rounded-full p-4">
+            <button className="bg-zinc-500 text-white font-bold border rounded-full p-10">
                 CONTACT ME
             </button>
         </section>
