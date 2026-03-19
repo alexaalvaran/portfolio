@@ -51,11 +51,11 @@ body {
     margin: 1.25rem;
     font-size: 22px;
     font-weight: 700;
-    width: 400px;
+    width: 600px;
 }
 
-    .projectBox p {
+.projectBox p {
         margin-top: 0.5rem;
         font-size: 16px;
         font-weight: 400;
-    }
+}
