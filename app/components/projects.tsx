@@ -83,16 +83,26 @@ export default function Projects() {
             <div className="w-full flex flex-row items-center justify-around">
           
                 <div className="projectBox">
-                    <h3>NZSL Detection</h3>
-                    <p> Designed, developed and launched website </p>
-                </div>
-
-                <div className="projectBox">
                     <h3>Doorknock</h3>
-                    <p> Designed, developed and launched website
-     
+                    <p>
+                        In this role, I was tasked with designing, developing, and launching a user-focused web application for Doorknock NZ. The project involved close collaboration with the founder,
+                        Tim Hall, to ensure the final product accurately reflected the company&#39;s vision, values, and target audience.
+                    </p>
+                    <p>
+                        Doorknock was founded on the belief that traditional property systems often advantage established investors who have access to off-market opportunities, leaving everyday buyers at a disadvantage.
+                        In response to this, the platform aims to level the playing field by enabling more direct and proactive connections between buyers and homeowners before properties are publicly listed.
+                   
+                        Using these insights, I independently designed and developed a modern, user-friendly web application that communicated Doorknock&#39;s purpose while providing a clear and intuitive user experience.
+                        The interface was designed in Figma, with a strong focus on simplicity, accessibility, and alignment with the brand&#39;s proactive, people-first philosophy.
+                        The application was then built and deployed using Webflow, enabling efficient development while also allowing non-technical team members to manage and update content post-launch.
+                        This was an important consideration for the client, ensuring long-term maintainability without reliance on developer intervention.
+                    </p>
 
-                      </p>
+                    <p>
+                        Throughout the project, I was responsible for the full end-to-end development lifecycle, including design, implementation, testing, and deployment. The final product successfully delivered a polished and functional web
+                        application that reflected Doorknock&#39;s mission and provided a clear, engaging experience for its users.
+                    </p>
+
                     <a
                         href=" https://www.doorknock.co.nz/"
                         target="_blank"

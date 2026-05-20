@@ -13,9 +13,11 @@ export default function Header() {
                 Outside of tech, I enjoy reading, baking, spending time with my loved ones and cats, lifting weights, pilates, swimming, and exploring new cafes and restaurants.
                 
             </p>
-            <button className="bg-zinc-500 text-white font-bold border rounded-full px-4 py-2">
+            <li>
+                <a href="#Contact" className="bg-zinc-500 text-white font-bold border rounded-full px-4 py-2">
                 CONTACT ME
-            </button>
+               </a>
+            </li>
         </section>
     )
 }

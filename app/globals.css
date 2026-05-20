@@ -59,3 +59,16 @@ body {
         font-size: 16px;
         font-weight: 400;
 }
+
+.contactButton {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #71717a;
+    border: 1px solid #71717a;
+    border-radius: 9999px;
+    padding: 0.25rem 0.50rem;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+}
